@@ -9,7 +9,7 @@
 
 ## Descrição
 - `Gênero` Beat em’ Up e Jogo de ritmo
-- `Tema` Cultura Hip Hop e Brasileira
+- `Tema` Cultura Brasileira e Hip Hop
 - `Câmera` Side-scrolling
 - `Estilo` 2D, Pixel Art e Street Art
 - `Objetivo` Derrotar todos os inimigos do cenário com golpes e combos no ritmo da música
