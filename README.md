@@ -1,13 +1,12 @@
 # Shelf Life
 
+<p align="justify">Em `Shelf Life`, o jogador controlará Carolline. Ele utilizarar seus passos de dança no ritmo da música para golpear os inimigos gerados pela imaginação de Carolline.</p>
 
-  <p align="justify">Em `Shelf Life`, o jogador controlará Carolline. Ele utilizarar seus passos de dança no ritmo da música para golpear os inimigos gerados pela imaginação de Carolline.</p>
+<p align="justify">Caso o jogador tenha êxito ao golpear no ritmo correto da música irá aumentar o dano gerado ao inimigo e também aumentar a barra azul no jogo.</p>
 
-  Caso o jogador tenha êxito ao golpear no ritmo correto da música irá aumentar o dano gerado ao inimigo e também aumentar a barra azul no jogo.
+<p align="justify">Ao encontrar com inimigos o jogador terá que mesclar entre atacar, para gerar dano ao inimigo, e esquivar de ataques premeditados.</p>
 
-  Ao encontrar com inimigos o jogador terá que mesclar entre atacar, para gerar dano ao inimigo, e esquivar de ataques premeditados. 
-
-  Para se ter uma noção do timer, o jogo utilizará de um ícone no canto inferior central que funcionará como um marcador de batida, além do próprio ambiente que irá sinalizar conforme a batida.
+<p align="justify">Para se ter uma noção do timer, o jogo utilizará de um ícone no canto inferior central que funcionará como um marcador de batida, além do próprio ambiente que irá sinalizar conforme a batida.</p>
 
 
 [História](documentacao/historia-shelf-life.pdf)
