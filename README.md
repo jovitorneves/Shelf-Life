@@ -2,8 +2,16 @@
 
 [História](documentacao/historia-shelf-life.pdf)
 
-## Detalhes
-- Unity 2018.4.0f1
+### Descrição
+- `Gênero` Beat em’ Up, Jogo de ritmo
+- `Tema` Cultura Hip Hop e Brasileira
+- `Câmera` Side-scrolling
+- `Estilo` 2D, Pixel Art, Street Art
+- `Objetivo` Derrotar todos os inimigos do cenário com golpes e combos no ritmo da música
+
+## Engine
+- Unity 
+- 2018.4.0f1
 - C#
 
 ## Referências
