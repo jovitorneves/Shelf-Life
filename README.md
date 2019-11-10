@@ -1,6 +1,6 @@
 # Shelf Life
 
-<p style="text-align: center;">
+<p align="justify">
   Em `Shelf Life`, o jogador controlará Carolline. Ele utilizarar seus passos de dança no ritmo da música para golpear os inimigos gerados pela imaginação de Carolline.
 
   Caso o jogador tenha êxito ao golpear no ritmo correto da música irá aumentar o dano gerado ao inimigo e também aumentar a barra azul no jogo.
