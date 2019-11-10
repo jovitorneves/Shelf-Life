@@ -2,6 +2,10 @@
 
 [História](documentacao/historia-shelf-life.pdf)
 
+## Detalhes
+- Unity 2018.4.0f1
+- C#
+
 ## Referências
 
 ### Mecânica
