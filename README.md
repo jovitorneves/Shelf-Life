@@ -2,11 +2,11 @@
 
 [História](documentacao/historia-shelf-life.pdf)
 
-### Descrição
-- `Gênero` Beat em’ Up, Jogo de ritmo
+## Descrição
+- `Gênero` Beat em’ Up e Jogo de ritmo
 - `Tema` Cultura Hip Hop e Brasileira
 - `Câmera` Side-scrolling
-- `Estilo` 2D, Pixel Art, Street Art
+- `Estilo` 2D, Pixel Art e Street Art
 - `Objetivo` Derrotar todos os inimigos do cenário com golpes e combos no ritmo da música
 
 ## Engine
