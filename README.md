@@ -21,6 +21,12 @@
 
 ## Referências
 
+### Câmera
+- Scott Pilgrim vs. the World: The Game
+![Image](screenshot/referencias/scot-pilgrim-vs-the-world-the-game-1.gif)
+![Image](screenshot/referencias/scot-pilgrim-vs-the-world-the-game-2.gif)
+![Image](screenshot/referencias/scot-pilgrim-vs-the-world-the-game-3.gif)
+
 ### Mecânica
 - Crypt of the NecroDancer
 ![Image](screenshot/referencias/Crypt-of-the-NecroDancer-1.gif)
